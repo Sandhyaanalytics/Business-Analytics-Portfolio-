@@ -1,5 +1,4 @@
 # Sales Performance Analysis
-
 ## Overview
 This project analyzes sales data to understand revenue trends, product performance, and growth opportunities.
 
